@@ -1,4 +1,4 @@
-# Urban Informatics **Research Proposal: Sofia Residential Real-Estate Pricing & Risk Map**
+# Urban Informatics **Research: Sofia Residential Real-Estate Pricing & Risk Map**
 
 ## 1. Introduction & Research Framing
 
