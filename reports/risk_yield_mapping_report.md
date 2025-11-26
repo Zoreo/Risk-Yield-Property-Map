@@ -28,5 +28,8 @@
    - **Unknown/others**: bookmarks where either yield or residual data is missing/not enough to make sensible deductions.
 
 ## Visual & narrative takeaways
+
+<img width="879" height="420" alt="image (1)" src="https://github.com/user-attachments/assets/d5f08c98-83bf-4d22-945b-25aa7c990b89" />
+
 - Districts such as **Докторски паметник** and **Център** score high on residuals and yields, landing in the `high_price_high_yield` quadrant. Peripheral districts like **Надежда** and **Люлин** sit closer to the `low_price_low_yield` or `undervalued` quadrants depending on their yield.
 - The scatter plot generated in `notebooks/04_risk_yield_mapping.ipynb` includes ID labels pulled from `district_metrics.csv`, and the numeric legend helps map each point back to district names if you need to reproduce the figure in a report.
