@@ -67,9 +67,9 @@ Before data collection, the project will establish a theoretical and empirical b
 
 **H3:**
 
-- Districts with low yields and positive residuals (high price, low income support) will occupy a “Speculative Bubble” quadrant.
-- Districts with high yields and negative residuals (relatively cheap but strong rent) will appear as “Undervalued Gems”.
-- The remaining combinations (high price / high yield, low price / low yield) correspond to “Cash Cows” and “Value Traps.”
+- Districts with low yields and positive residuals (high price, low income support) will occupy a “Overvalued Low Yield” quadrant.
+- Districts with high yields and negative residuals (relatively cheap but strong rent) will appear as “Undervalued High Yield”.
+- The remaining combinations (high price / high yield, low price / low yield) correspond to “High Price High Yield” and “Low Price Low Yield”.
 
 ---
 
